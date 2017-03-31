@@ -1,0 +1,9 @@
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\bin\Debug\netcoreapp1.1\HolidayAPI.deps.json
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\bin\Debug\netcoreapp1.1\HolidayAPI.runtimeconfig.json
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\bin\Debug\netcoreapp1.1\HolidayAPI.runtimeconfig.dev.json
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\bin\Debug\netcoreapp1.1\HolidayAPI.dll
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\obj\Debug\netcoreapp1.1\HolidayAPI.csprojResolveAssemblyReference.cache
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\obj\Debug\netcoreapp1.1\HolidayAPI.AssemblyInfo.cs
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\bin\Debug\netcoreapp1.1\HolidayAPI.pdb
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\obj\Debug\netcoreapp1.1\HolidayAPI.dll
+c:\users\ed\documents\visual studio 2017\Projects\HolidayAPI\HolidayAPI\obj\Debug\netcoreapp1.1\HolidayAPI.pdb
